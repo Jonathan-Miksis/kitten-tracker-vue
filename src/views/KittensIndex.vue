@@ -5,6 +5,7 @@
       <p>Name: {{ kitten.name }}</p>
       <p>Age: {{ kitten.age }}</p>
       <p>Color: {{ kitten.color }}</p>
+      <hr>
     </div>
   </div>
 </template>
